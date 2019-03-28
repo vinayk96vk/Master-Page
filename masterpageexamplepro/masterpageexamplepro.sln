@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masterpageexamplepro", "masterpageexamplepro\masterpageexamplepro.csproj", "{1E9473E4-6790-46CE-A41A-42D063655361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dallib", "dallib\dallib.csproj", "{96F5A6FC-993B-4892-8EE9-4EE4BD22B451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerBLlib", "CustomerBLlib\CustomerBLlib.csproj", "{46E6C7BB-68B3-4D2F-BFA4-AB724989E450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9473E4-6790-46CE-A41A-42D063655361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9473E4-6790-46CE-A41A-42D063655361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9473E4-6790-46CE-A41A-42D063655361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9473E4-6790-46CE-A41A-42D063655361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F5A6FC-993B-4892-8EE9-4EE4BD22B451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F5A6FC-993B-4892-8EE9-4EE4BD22B451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F5A6FC-993B-4892-8EE9-4EE4BD22B451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F5A6FC-993B-4892-8EE9-4EE4BD22B451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E6C7BB-68B3-4D2F-BFA4-AB724989E450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E6C7BB-68B3-4D2F-BFA4-AB724989E450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E6C7BB-68B3-4D2F-BFA4-AB724989E450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E6C7BB-68B3-4D2F-BFA4-AB724989E450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

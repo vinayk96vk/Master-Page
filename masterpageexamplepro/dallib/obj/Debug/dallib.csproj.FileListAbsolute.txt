@@ -1,0 +1,5 @@
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\dallib\bin\Debug\dallib.dll
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\dallib\bin\Debug\dallib.pdb
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\dallib\obj\Debug\dallib.csprojResolveAssemblyReference.cache
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\dallib\obj\Debug\dallib.dll
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\dallib\obj\Debug\dallib.pdb

@@ -1,0 +1,7 @@
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\bin\Debug\CustomerBLlib.dll
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\bin\Debug\CustomerBLlib.pdb
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\bin\Debug\dallib.dll
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\bin\Debug\dallib.pdb
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\obj\Debug\CustomerBLlib.csprojResolveAssemblyReference.cache
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\obj\Debug\CustomerBLlib.dll
+c:\users\764964\documents\visual studio 2012\Projects\masterpageexamplepro\CustomerBLlib\obj\Debug\CustomerBLlib.pdb
